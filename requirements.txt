@@ -4,3 +4,4 @@ pandas
 matplotlib
 pydantic
 ipympl
+ipywidgets
